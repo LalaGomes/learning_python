@@ -1,0 +1,15 @@
+Estudo Pyhton 
+
+Operações Aritiméticas
+
+Ordem de Precedência
+
+1- ()
+2- ** Potência
+3- * / // %
+4- + -
+
+
+:.2f serve para formatar algo a ser mostrado n o terminal
+
+\n serve para quebrar uma linha no terminal 
